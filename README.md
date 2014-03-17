@@ -5,6 +5,7 @@ This is only a hosts file, for original smart host, some websites can't access, 
 
 The websites fixed :
 
-developers.android.com
-youtube
-groups.google.com
+  - developers.android.com
+  - youtube
+  - groups.google.com
+  - twitter
