@@ -7,6 +7,7 @@
 
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
+211.154.172.172 adgit.com
 
 #AdBlock START
 127.0.0.1	rad.msn.com
