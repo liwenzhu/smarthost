@@ -1,11 +1,9 @@
 Smarthost
 =========
 
-This is only a hosts file, for original smart host, some websites can't access, I delete the hosts which can't be used.
+This is a host file for Chinese users, for access google service, facebook, twitter, youtube, github, wiki ...
+without **VPN**, cheers!
 
-The websites fixed :
-
-  - developers.android.com
-  - youtube
-  - groups.google.com
-  - twitter
+Usage
+=====
+Just replace your system hosts file, don't forget backup your private hosts, enjoy!
